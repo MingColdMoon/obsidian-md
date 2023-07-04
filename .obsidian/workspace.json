@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "332123b6ac715eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7840de3ac97327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5408a1614c83a23a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "05a9f3ee17771566"
+          }
+        ]
+      },
+      {
+        "id": "6532a831afc69791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50662fb6016db8a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "05a9f3ee17771566"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a827ce81c364449",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6bedf9d283ca89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baba5d036eed3781",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c46e49288be57e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d2410b5a72b21dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31c3c09589edef28",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "38c21487549c7b87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d3c6601e69cc9221",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27cba21835faf6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d5afec42047249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67df70441041fede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd1483c310dc66c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5dd2b5dcda4ea6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f7a9a7d930d726b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a74c2532ba513f23",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "485e56cb50037ac2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "baba5d036eed3781",
+  "lastOpenFiles": [
+    "常用类型.md",
+    "图库/3ee89d866edcb450c164bca52bd110af5d53e248.jpg@942w_564h_progressive_waifu2x_art_noise3_scale.png",
+    "图库",
+    "前端.md",
+    "typescript.md",
+    "GS]ND`G2(H_WT~YQZ9369YM.jpg",
+    "Excalidraw/浏览器渲染过程.md",
+    "Excalidraw/Drawing 2023-05-26 16.46.44.excalidraw.md",
+    "Excalidraw",
+    "CSS篇.md",
+    "().md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-leaf",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"app://local/C:/Users/Administrator/Pictures/ahx4d-wd8rl.png\")",
+  "blue-topaz-theme@@blur-depth": 0,
+  "blue-topaz-theme@@transparent-setting-panel": false
+}
